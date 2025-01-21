@@ -1,6 +1,6 @@
 ### Hello there, I'm Gao Haoyang 👋
 
-- I am a fullstack/front-end/creative developer.
+- I am a full-stack/front-end/creative developer.
 - I love open source. ❤️ 
 ---
 
