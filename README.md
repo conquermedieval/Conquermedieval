@@ -5,7 +5,7 @@
 ---
 
 ![](https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang/master/profile-summary-card-output/zenburn/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang/master/profile-summary-card-output/zenburn/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang/master/profile-summary-card-output/zenburn/2-most-commit-language.svg)
+<!-- ![](https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang/master/profile-summary-card-output/zenburn/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang/master/profile-summary-card-output/zenburn/2-most-commit-language.svg) -->
 ![](https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang/master/profile-summary-card-output/zenburn/3-stats.svg) ![](https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang/master/profile-summary-card-output/zenburn/4-productive-time.svg)
 
 <!-- <p align="center">
