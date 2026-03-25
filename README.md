@@ -1,7 +1,7 @@
 ## Olá Players 👋
 
 
-**conquermedieval/conquermedieval** roda com base na versão ✨ V5095 ✨.  
+**conquermedieval* roda com base na versão ✨ V5095 ✨.  
 Confira abaixo o que temos no servidor:
 
 - ⚡ Ping mínimo 28ms - Médio 70ms e Máximo 120ms/140ms  
